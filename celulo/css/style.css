@@ -81,13 +81,19 @@ h3 {
 	margin-bottom: 10px;
 }
 h4{
-	margin-top: -110px;
 	margin-bottom: 10px;
 }
 #email a{
 	display: block;
 	background-image: url(../img/email.png);
 	background-repeat: no-repeat;
+	width: 121px;
+	height: 36px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+#facebook a{
+	display: block;
 	width: 121px;
 	height: 36px;
 	margin-top: 10px;
