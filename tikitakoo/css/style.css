@@ -91,12 +91,14 @@ h2, h3, h4{
 	margin-top: 10px;
 	margin-bottom: 20px;
 }
-#itunes a{
+
+#itunes a {
 	display: block;
 	width: 121px;
 	height: 36px;
 	margin-top: 10px;
 	margin-bottom: 30px;
+}
 aside em {
 	display: none;
 }
